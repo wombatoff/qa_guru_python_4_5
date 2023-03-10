@@ -33,6 +33,7 @@ pip install -r requirements.txt
 ## Запуск теста
 
 ```
+cd tests
 pytest
 ```
 
